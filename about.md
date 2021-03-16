@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Typical About Me website, circa 2021
-permalink: /about/
+permalink: /blog/
 ---
 ### Me talking about myself
 *Statistic, Computer Science, Philosophy enthusiast and meme theorist. Write semi-serious blog post about Machine Learning*
